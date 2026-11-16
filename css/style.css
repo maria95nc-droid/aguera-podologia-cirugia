@@ -1177,8 +1177,11 @@ h1, h2, h3, h4 {
 
 .fab-accessibility {
   left: 24px;
-  background: var(--color-white);
-  color: var(--color-ink);
+  background: #4a4a4a;
+  color: var(--color-white);
+}
+.fab-accessibility:hover {
+  background: #5a5a5a;
 }
 
 .fab-whatsapp {
